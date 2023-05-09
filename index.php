@@ -17,7 +17,7 @@
     
     <?php
     include_once "menu.php";
-    echo "prueba asteiqq";
+    echo "prueba astex";
     ?>
 <!-- ok-->
 
